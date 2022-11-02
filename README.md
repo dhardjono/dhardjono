@@ -4,6 +4,8 @@
 
 💻 Frameworks:
 - Angular
+- NextJS (in combination with React, of course)
+- NestJS
 - Node.js
 - Ionic (& Stencil)
 - Cucumber
